@@ -3,6 +3,8 @@
 
 <p>Hello everyone! Estou aprendendo JavaScript e nesse projeto venho compartilhar uma calculadora que fiz aplicando os conceitos que estou aprendendo, parece simples mas um simples projeto como esse já traz muitos conceitos importantes das tecnologias Web  😎</p>
 <hr>
+
+<p>Abra no seu celular:</p>https://astounding-fairy-6163b8.netlify.app
  <h2>Imagem geral do projeto:</h2>
 
 <img width=300px src=https://user-images.githubusercontent.com/71677681/179631737-9584b747-dbc9-41de-8174-24e21b6070b3.jpg>
