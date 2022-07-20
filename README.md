@@ -3,7 +3,7 @@
 
 <p>Hello everyone! Estou aprendendo JavaScript e nesse projeto venho compartilhar uma calculadora que fiz aplicando os conceitos que estou aprendendo, parece simples mas um simples projeto como esse já traz muitos conceitos importantes das tecnologias Web  😎</p>
 
-<p> Pode acessar <a src=https://fabulous-bonbon-784353.netlify.app>clicando aqui.</a> preferencialmente abrir no smartphone<p>
+
 <hr>
 
 <p>Abra no seu celular:</p>https://astounding-fairy-6163b8.netlify.app
